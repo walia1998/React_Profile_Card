@@ -1,5 +1,5 @@
 import image from '../../assets/profile-pic1.png';
-import { Card } from './card';
+import { Card } from './Card';
 
 
 export const CardExample =() => {
