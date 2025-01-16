@@ -1,10 +1,11 @@
+import ArryaSorted from "./ArraySorted";
 
-import { CardExample } from "./components/cards/CardExample";
+
 
 function App() {
   return (
     <div>
-    <CardExample />
+      <ArryaSorted />
     </div>
   );
 }
